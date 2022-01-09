@@ -10,5 +10,5 @@ spec:
   - env:
     - name: APP_COLOR
       value: green
-    image: kodekloud/webapp-color
+    image: cloud/webapp-color
     name: webapp-color
